@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Downloaded datasets and generated experiment artifacts
+data/
+results/
+checkpoints/
+figures/
+
+# OS/editor
+.DS_Store
+.vscode/
